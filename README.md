@@ -6,7 +6,7 @@
 </p>
 
 
-- 🎓 Final-year B.Tech Computer Engineering student at JSPM RSCOE, [Pune].
+- 🎓 Final-year B.Tech Computer Engineering student at JSPM RSCOE, Pune.
 - 💻 Full Stack Web Developer with a strong focus on clean UI/UX and modern design.
 - 🎨 Skilled Graphic Designer creating visual identities and engaging interfaces.
 - 🧠 Currently learning Artificial Intelligence and Machine Learning to expand my skillset.
